@@ -6,4 +6,5 @@
 - 기본 함수들과 pandas를 이용하여 EDA
 - tensorflow를 사용하여 딥러닝 진행
 - PIL, cv2, glob 등을 통해 이미지 불러오기 학습
+- 이미지 파일은 캐글에서 다운로드
 - 데이터 출처 : 캐글, https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types
